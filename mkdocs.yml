@@ -7,6 +7,7 @@ theme:
   code: Red Hat Mono
   icon:
     logo: simple/dungeonsanddragons
+  favicon: fontawesome/solid-hat-wizard
   palette:
     # Dark Mode
     - scheme: slate
