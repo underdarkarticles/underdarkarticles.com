@@ -7,7 +7,7 @@ theme:
   code: Red Hat Mono
   icon:
     logo: simple/dungeonsanddragons
-  favicon: assets/hat-wizard-solid.ico
+  favicon: assets/d20.ico
   palette:
     # Dark Mode
     - scheme: slate
