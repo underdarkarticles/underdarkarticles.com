@@ -6,7 +6,7 @@ theme:
   text: Merriweather Sans
   code: Red Hat Mono
   icon:
-    logo: :simple-dungeonsanddragons:
+    logo: simple/dungeonsanddragons
   palette:
     # Dark Mode
     - scheme: slate
