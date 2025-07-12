@@ -16,6 +16,6 @@ test
 ### Session Zero Notes
 TBD
 
-<p style="color:blue">Make this text blue.</p>
+
 
 
