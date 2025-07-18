@@ -17,6 +17,6 @@ Your character will be from one these towns.
 ### Races
 We learned of three new races featured in this in this world
 
--Midni
--Raevling
--Tomeling
+- Midni
+- Raevling
+- Tomeling
