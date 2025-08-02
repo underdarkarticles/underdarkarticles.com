@@ -4,7 +4,7 @@
 
 ## **Next Session**
 
-**<p style="color:green">7/27/2025 6:00 PM</p>**
+**<p style="color:green">8/10/2025 6:00 PM</p>**
 
 
 ## **[Last Session](https://underdarkarticles.com/sessions/session-zero/)**
