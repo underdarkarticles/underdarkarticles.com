@@ -4,12 +4,12 @@
 
 ## **Next Session**
 
-**<p style="color:green">8/24/2025 6:00 PM</p>**
+**<p style="color:green">9/21/2025 6:00 PM</p>**
 
 
-## **[Last Session](https://underdarkarticles.com/sessions/session-zero/)**
+## **[Last Session](https://underdarkarticles.com/sessions/session-one/)**
 
-**<p style="color:yellow">8/10/2025 6:00 PM</p>**
+**<p style="color:yellow">9/07/2025 6:00 PM</p>**
 
 
 
