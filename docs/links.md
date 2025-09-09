@@ -2,6 +2,11 @@
 
 ## <p style="color:purple">Links</p>
 
+### <p style="color:green">World of Mateaen</p>
+1. <a href="https://homebrewery.naturalcrit.com/share/0K6_bLVXTjqs" target="_blank">Chapter 1: Character Creation</a>
+2. <a href="https://homebrewery.naturalcrit.com/share/7Pc374x9DuLF" target="_blank">Chapter 2: Lineages</a>
+
+
 ### <p style="color:green">General Tools</p>
 1. <a href="https://5e.tools/" target="_blank">5e Tools</a>
 
