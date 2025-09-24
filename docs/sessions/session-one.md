@@ -4,6 +4,15 @@
 
 **9/7/2025**
 
+## Adventurers Present
+
+- Glorp
+- Egram
+- Belmore
+- Freya
+- Allan
+
+
 ## Session Notes
 Session one marked our first session playing in the Autumn Province. All five adventurers were present and were all present in the town of Galtonne. Upon waking up on day 1; we were met with tremors in the town. We knew these had been going on for a while but they seem to be getting progressively closer to us. Days 1 & 2 felt as if the tremors were much farther away, while on the 3rd and 4th day; it felt much closer and under our feet. All of the tremors seemed to be happening early in the morning. 
 
@@ -16,11 +25,11 @@ Four of the adventurers went into a near by meat shop to see if we could lure th
 
 ### Adventurers
 
-- Glorp - ?
-- Egram - ?
-- Belmore Anymore - Thunderkin Dwarf
-- Freya - ?
-- Allan - ?
+- Glorp Turpin. Orc (Sharptooth), CN
+- Egram. Tomeling (Mindling), N
+- Belmore. Dwarf (Thunderkin), NG
+- Freya. Raevling (Ironskin), CG
+- Allan. Elf (Barkskin), N
 
 ### Galtonne
 
