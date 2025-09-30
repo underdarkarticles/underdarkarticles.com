@@ -6,7 +6,7 @@ theme:
   text: Merriweather Sans
   code: Red Hat Mono
   icon:
-    logo: assets/adobe_icon.png
+    logo: simple/dungeonsanddragons
   favicon: assets/apple-touch-icon.png
   palette:
     # Dark Mode
