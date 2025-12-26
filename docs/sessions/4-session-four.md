@@ -6,13 +6,10 @@
 
 ## Adventurers Present
 
-NO BRYAN
-
 - Glorp
 - Egram
 - Belmore
 - Freya
-- Allan
 
 
 ## Session Notes
