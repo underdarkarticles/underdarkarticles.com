@@ -6,6 +6,10 @@
 1. <a href="https://media.wizards.com/2016/dnd/downloads/5E_CharacterSheet_Fillable.pdf" target="_blank">2016 5e Character Sheet</a>
 2. <a href="https://media.dndbeyond.com/compendium-images/phb/downloads/DnD_2024_Character-Sheet.pdf" target="_blank">2024 5e Character Sheet</a>
 
+### <p style="color:pink">Books</p>
+1. <a href="https://drive.smokeybrew.io/s/qX8p6JidRB95CfF" target="_blank">PDFs of Books</a>
+
+
 ### <p style="color:green">World of Mateaen</p>
 1. <a href="https://homebrewery.naturalcrit.com/share/0K6_bLVXTjqs" target="_blank">Chapter 1: Character Creation</a>
 2. <a href="https://homebrewery.naturalcrit.com/share/7Pc374x9DuLF" target="_blank">Chapter 2: Lineages</a>
