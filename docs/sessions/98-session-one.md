@@ -14,7 +14,7 @@
 
 
 ## Session Notes
-Session one marked our first session playing in the Autumn Province. All five adventurers were present and were all present in the town of Galtonne. Upon waking up on day 1; we were met with tremors in the town. We knew these had been going on for a while but they seem to be getting progressively closer to us. Days 1 & 2 felt as if the tremors were much farther away, while on the 3rd and 4th day; it felt much closer and under our feet. All of the tremors seemed to be happening early in the morning. 
+Session One marked our first session playing in the Autumn Province. All five adventurers were present and were all present in the town of Galtonne. Upon waking up on day 1; we were met with tremors in the town. We knew these had been going on for a while but they seem to be getting progressively closer to us. Days 1 & 2 felt as if the tremors were much farther away, while on the 3rd and 4th day; it felt much closer and under our feet. All of the tremors seemed to be happening early in the morning. 
 
 After many days of tremors in the town, the feeling of the ground shaking felt the most intense and a large sinkhole appeared in the street of Galtonne directing in front of the local tavern [The Cackling Skeleton] owned by our very own adventurer [Allan]. Upon inspection of the sinkhole, we were able to see what appeared to be a tunnel going perpendicular with the  main shaft of the sinkhole. The main shaft itself was far too deep to determine any sort of distance or range, while the tunnel appeared to be around 15 feet wide. 
 

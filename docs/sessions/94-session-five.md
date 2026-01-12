@@ -1,8 +1,8 @@
-# Session Four
+# Session Five
 
 ## Date
 
-**11/30/2025**
+**1/12/2026**
 
 ## Adventurers Present
 
@@ -10,8 +10,8 @@
 - Egram
 - Belmore
 - Freya
-
+- Allan
 
 ## Session Notes
 
-Session four
+Session Five
