@@ -9,7 +9,7 @@
 - Glorp
 - Egram
 - Belmore
-- Freya
+- Freyja
 - Allan
 
 
@@ -28,7 +28,7 @@ Four of the adventurers went into a near by meat shop to see if we could lure th
 - Glorp Turpin. Orc (Sharptooth), CN
 - Egram. Tomeling (Mindling), N
 - Belmore. Dwarf (Thunderkin), NG
-- Freya. Raevling (Ironskin), CG
+- Freyja. Raevling (Ironskin), CG
 - Allan. Elf (Barkskin), N
 
 ### Galtonne
@@ -48,7 +48,7 @@ Galtonne is described as having Fall temperatures year-round. The leaves are alw
 - Glorp - Qually Dert (wheelwright)
 - Egram - Turyn Fraderick (local historian)
 - Belmore - Nerba Irlin (pollarder)
-- Freya - Astin Olck (goldsmith)
+- Freyja - Astin Olck (goldsmith)
 
 ##### Important individuals in Galtonne
 

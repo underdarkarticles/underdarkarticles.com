@@ -9,7 +9,7 @@
 - Glorp
 - Egram
 - Belmore
-- Freya
+- Freyja
 - Allan
 
 ## Session Notes
