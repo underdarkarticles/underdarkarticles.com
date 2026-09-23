@@ -4,10 +4,10 @@
 
 ## **Next Session**
 
-**<p style="color:green">4/19/2026 6:00 PM</p>**
+**<p style="color:green">10/11/2026 6:00 PM</p>**
 
 
-## **[Last Session](https://underdarkarticles.com/sessions/94-session-five/)**
+## **[Last Session](https://underdarkarticles.com/sessions/The%20Autumn%20Province/94-session-five/)**
 
 **<p style="color:yellow">1/11/2026 6:00 PM</p>**
 
