@@ -2,7 +2,7 @@
 
 ## Date
 
-**9/7/2025**
+**09/7/2025**
 
 ## Adventurers Present
 
