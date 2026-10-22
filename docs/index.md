@@ -4,12 +4,12 @@
 
 ## **Next Session**
 
-**<p style="color:green">10/11/2026 6:00 PM</p>**
+**<p style="color:green">TBD</p>**
 
 
-## **[Last Session](https://underdarkarticles.com/sessions/The%20Autumn%20Province/94-session-five/)**
+## **[Last Session](https://underdarkarticles.com/sessions/The%20Autumn%20Province/92-session-seven/)**
 
-**<p style="color:yellow">1/11/2026 6:00 PM</p>**
+**<p style="color:yellow">06/14/2026 6:00 PM</p>**
 
 ![Logo](assets/adobe_icon.png)
 
